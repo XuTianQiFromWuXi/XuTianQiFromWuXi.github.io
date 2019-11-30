@@ -3,7 +3,7 @@
 <head>
 <p><font size="9" color="red" >
 XuTianQi Love  Yaojia
-<title>XuTianQi   Love   YaoJia
+<title>XuTianQi   Love   YaoJia<title>
 <body  background="dajuyuan.jpg">
 <p>
 <font size="18" color="red" >
