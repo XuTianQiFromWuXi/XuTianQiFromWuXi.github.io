@@ -2,7 +2,7 @@
 <html>
 <head>
 <p><font size="9" color="red" >
-XuTianQi Love  Yaojia</p>
+XuTianQi Love  Yaojia
 <title>XuTianQi   Love   YaoJia
 <body  background="dajuyuan.jpg">
 <p>
