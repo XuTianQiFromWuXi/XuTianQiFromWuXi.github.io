@@ -1,11 +1,11 @@
 # XuTianQiFromWuXi.github.io
-I Love  Yaojia
 <html>
 <head>
+<p><font size="9" color="red" >
+XuTianQi Love  Yaojia</p>
 <title>XuTianQi   Love   YaoJia</title>
 </head>
-<body>
-<body background="dajuyuan.jpg">
+<body  background="dajuyuan.jpg">
 <p>
 <font size="18" color="red" >
 喜欢嘉宝，
