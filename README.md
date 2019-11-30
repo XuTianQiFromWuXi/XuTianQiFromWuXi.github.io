@@ -3,9 +3,8 @@
 <head>
 <p><font size="9" color="red" >
 XuTianQi Love  Yaojia</p>
-<title>XuTianQi   Love   YaoJia</title>
-</head>
-<body  background="#09C7F7">
+<title>XuTianQi   Love   YaoJia
+<body  background="dajuyuan.jpg">
 <p>
 <font size="18" color="red" >
 喜欢嘉宝，
@@ -13,5 +12,5 @@ XuTianQi Love  Yaojia</p>
 丛嘉宝的额头到双脚；</font> </p>
 <p> 
 <img src="jiabao.jpg" id=" 加入图片练习"> </p>
-</body></html>
+</body>
 
