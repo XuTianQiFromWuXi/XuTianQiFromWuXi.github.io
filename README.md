@@ -1,9 +1,9 @@
-# XuTianQiFromWuXi.github.io
+# 嘉宝&我
 <html>
 <head>
 <p><font size="9" color="red" >
 XuTianQi Love  Yaojia
-<body  background="beijing.jpg">
+<body  background="love.jpg">
 <p>
 <font size="18" color="red" >
 喜欢嘉宝，
