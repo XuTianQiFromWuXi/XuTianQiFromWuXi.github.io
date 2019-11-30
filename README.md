@@ -5,7 +5,7 @@
 XuTianQi Love  Yaojia</p>
 <title>XuTianQi   Love   YaoJia</title>
 </head>
-<body  background="dajuyuan.jpg">
+<body  background="#09C7F7">
 <p>
 <font size="18" color="red" >
 喜欢嘉宝，
