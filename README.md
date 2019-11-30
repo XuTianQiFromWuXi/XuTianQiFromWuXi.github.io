@@ -3,7 +3,7 @@
 <head>
 <p><font size="9" color="red" >
 XuTianQi Love  Yaojia
-<body  background="dajuyuan.jpg">
+<body  background="beijing.jpg">
 <p>
 <font size="18" color="red" >
 喜欢嘉宝，
